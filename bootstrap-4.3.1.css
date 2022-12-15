@@ -615,7 +615,7 @@ pre code {
     width: 100%;
     /* [disabled]padding-right: 15px; */
     padding-left: 15px;
-    background-image: url(pictures/banner.jpg);
+    background-image: url(../pictures/banner.jpg);
 }
 
 .col {
