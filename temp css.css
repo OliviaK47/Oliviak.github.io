@@ -1,10 +1,11 @@
-@charset "UTF-8";
+@charset "utf-8";
+
 .bg-dark {
     background-color: #A61212 !important;
 }
 .navbar-dark .navbar-nav .nav-link  {
     font-family: source-sans-pro;
-    color: #006699;
+    color: #53C0F7;
     font-style: normal;
     font-weight: 200;
 }
@@ -41,11 +42,11 @@ header p {
     font-style: normal;
 }
 header {
-    background-color: #F7F6F5;
+    background-color: #FFEBD7;
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 80% auto;
-    height: 212px;
+    background-size: auto auto;
+    height: 300px;
 }
 nav .container {
     border-bottom: 2px solid #FF3;
@@ -59,9 +60,11 @@ body {
 }
 footer {
     padding-top: 5px;
+
+	font font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
     background-color: #FEFEFC;
-    color: #0F0E0E;
+    color: #A20003;
 }
 address {
-    color: #069;
+    color: #53C0F7;
 }

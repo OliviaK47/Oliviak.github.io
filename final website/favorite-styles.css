@@ -52,10 +52,12 @@ nav .container {
     padding-bottom: 10px;
 }
 body {
-    border-right: 15px solid #FFFFFF;
-    border-left: 15px solid #FFFFFF;
-    border-top-color: #FFFFFF;
-    border-bottom-color: #FFFFFF;
+    border-right: 15px solid #F8F8F8;
+    border-left: 15px solid #F8F8F8;
+    border-top-color: #F8F8F8;
+    border-bottom-color: #F8F8F8;
+    border-top-style: solid;
+    border-bottom-style: solid;
 }
 footer {
     padding-top: 5px;
